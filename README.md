@@ -90,9 +90,12 @@
 
 <h2>Top Repositories</h2>
 
-<div width="100%" align="center"><a href="https://github.com/abdoulayeDABO/expressJS-init" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdoulayeDABO&repo=expressJS-init&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/abdoulayeDABO/expressJS-init" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdoulayeDABO&repo=expressJS-init&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
-<h1 align="left">SOCIALS</h1>
+###
+
+
+<h2 align="left">SOCIALS</h2>
 
 ###
 
@@ -107,5 +110,4 @@
 
 ###
 
-<br clear="both">
 
