@@ -1,4 +1,12 @@
-<p align="left">🚀 Développeur Full Stack <br><br>💻 Frontend: React, Vue.js<br>🔧 Backend: Node.js, Python, ExpressJS, Django</p>
+<p align="left">ABOUT ME</p>
+
+###
+
+<p align="left">Hi, I'm Abdoulaye DABO<br><br>I'm a passionate Full Stack Developer who loves building amazing web applications!<br><br>Frontend:<br>- React: Crafting smooth, dynamic user interfaces<br>- Vue.js: Flexible, easy-to-integrate frameworks for modern web development<br><br>Backend:<br>- Node.js: Scalable server-side applications with JavaScript<br>- Python: Python-powered APIs and backend services<br>- ExpressJS: Fast, unopinionated web framework for Node.js<br>- Django: The go-to framework for Python web applications<br><br>Feel free to explore my projects, and let’s connect! 🚀</p>
+
+###
+
+<p align="left">STATS</p>
 
 ###
 
@@ -6,6 +14,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abdoulayeDABO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoulayeDABO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left">MY SKILLS</p>
 
 ###
 
@@ -71,6 +83,10 @@
 
 ###
 
+<p align="left">SOCIALS</p>
+
+###
+
 <div align="left">
   <a href="http://linkedin.com/in/abdoulaye-dabo-39625023a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -79,9 +95,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/abdoulayeDABO/abdoulayeDABO/output/snake.svg" alt="Snake animation" />
 
 ###
