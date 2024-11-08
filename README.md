@@ -1,12 +1,17 @@
-<h1 align="left">ABOUT ME</h1>
+<h2 align="left">ABOUT ME</h2>
+
+### 
+
+<p align="center">I'm Abdoulaye DABO, a full-stack developer based in Senegal </p> 
+<p align="center">I'm a passionate Full Stack Developer who loves building amazing web applications and mobile applications!<br>Feel free to explore my projects, and let’s connect! 🚀</p>
 
 ###
 
-<h2 align="left">Hi, I'm Abdoulaye DABO<br><br>I'm a passionate Full Stack Developer who loves building amazing web applications!<br><br>Frontend:<br>- React: Crafting smooth, dynamic user interfaces<br>- Vue.js: Flexible, easy-to-integrate frameworks for modern web development<br><br>Backend:<br>- Node.js: Scalable server-side applications with JavaScript<br>- Python: Python-powered APIs and backend services<br>- ExpressJS: Fast, unopinionated web framework for Node.js<br>- Django: The go-to framework for Python web applications<br><br>Feel free to explore my projects, and let’s connect! 🚀</h2>
+* 🖥️  See my portfolio at [here](http://persoabdoulaye-abdoulayes-projects-a85d4f0d.vercel.app/)
+* ✉️  You can contact me at [daabdabo@gmail.com](mailto:daabdabo@gmail.com)
 
-###
 
-<h1 align="left">STATS</h1>
+<h2 align="left">STATS</h2>
 
 ###
 
@@ -17,7 +22,7 @@
 
 ###
 
-<h1 align="left">MY SKILLS</h1>
+<h2 align="left">🛠 MY SKILLS</h2>
 
 ###
 
@@ -83,6 +88,10 @@
 
 ###
 
+<h2>Top Repositories</h2>
+
+<div width="100%" align="center"><a href="https://github.com/abdoulayeDABO/expressJS-init" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdoulayeDABO&repo=expressJS-init&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 <h1 align="left">SOCIALS</h1>
 
 ###
@@ -100,4 +109,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
