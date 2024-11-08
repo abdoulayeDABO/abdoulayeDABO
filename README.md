@@ -1,12 +1,12 @@
-<p align="left">ABOUT ME</p>
+<h1 align="left">ABOUT ME</h1>
 
 ###
 
-<p align="left">Hi, I'm Abdoulaye DABO<br><br>I'm a passionate Full Stack Developer who loves building amazing web applications!<br><br>Frontend:<br>- React: Crafting smooth, dynamic user interfaces<br>- Vue.js: Flexible, easy-to-integrate frameworks for modern web development<br><br>Backend:<br>- Node.js: Scalable server-side applications with JavaScript<br>- Python: Python-powered APIs and backend services<br>- ExpressJS: Fast, unopinionated web framework for Node.js<br>- Django: The go-to framework for Python web applications<br><br>Feel free to explore my projects, and let’s connect! 🚀</p>
+<h2 align="left">Hi, I'm Abdoulaye DABO<br><br>I'm a passionate Full Stack Developer who loves building amazing web applications!<br><br>Frontend:<br>- React: Crafting smooth, dynamic user interfaces<br>- Vue.js: Flexible, easy-to-integrate frameworks for modern web development<br><br>Backend:<br>- Node.js: Scalable server-side applications with JavaScript<br>- Python: Python-powered APIs and backend services<br>- ExpressJS: Fast, unopinionated web framework for Node.js<br>- Django: The go-to framework for Python web applications<br><br>Feel free to explore my projects, and let’s connect! 🚀</h2>
 
 ###
 
-<p align="left">STATS</p>
+<h1 align="left">STATS</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">MY SKILLS</p>
+<h1 align="left">MY SKILLS</h1>
 
 ###
 
@@ -83,7 +83,7 @@
 
 ###
 
-<p align="left">SOCIALS</p>
+<h1 align="left">SOCIALS</h1>
 
 ###
 
@@ -97,3 +97,7 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
