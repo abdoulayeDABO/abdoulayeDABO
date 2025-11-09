@@ -1,13 +1,105 @@
-# 💫 About Me:
-### Full-Stack Developer<br><br>Hello! I'm a passionate full-stack developer with expertise in building robust and scalable applications. My skill set includes:<br><br>- **React Native**: Proficient in developing cross-platform mobile applications with a seamless user experience.<br>- **Python**: Experienced in backend development, data processing, and automation.<br>- **JavaScript**: Skilled in frontend development, creating dynamic and interactive web interfaces.<br><br>I enjoy solving complex problems and continuously learning new technologies to enhance my development capabilities. Feel free to explore my projects and contributions!<br>
+# Abdoulaye Dabo
 
+**Computer Engineering Student | AI & Big Data Specialist | Full-Stack Developer**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdoulaye-dabo-39625023a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daabdabo@gmail.com) 
+📍 ESP-DAKAR, Senegal  
+📧 [daabdabo@gmail.com](mailto:daabdabo@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/abdoulaye-dabo-39625023a)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+---
 
-[![](https://visitcount.itsvg.in/api?id=abdoulayeDABO&icon=0&color=0)](https://visitcount.itsvg.in)
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a computer engineering student at École Supérieure Polytechnique de Dakar, specializing in Artificial Intelligence and Big Data. As a full-stack developer, I'm passionate about building scalable applications and integrating machine learning solutions into modern web and mobile platforms.
+
+My focus is on creating intelligent, data-driven systems that solve real-world problems through the intersection of software engineering and AI.
+
+---
+
+## Technical Expertise
+
+### Languages
+- **Primary:** Python, JavaScript, TypeScript
+- **Systems:** C, C++, Java
+- **Markup:** LaTeX, HTML/CSS
+
+### Frontend Development
+- **Frameworks:** React, React Native
+- **State Management:** React Query, Context API
+- **Routing:** React Router
+- **Build Tools:** Vite, Expo
+- **Styling:** CSS3, Bootstrap, Tailwind CSS
+- **Other:** Astro
+
+### Backend Development
+- **Python:** Django, Flask, FastAPI
+- **Node.js:** Express.js, Socket.io
+- **Authentication:** JWT
+- **API Development:** RESTful APIs, Real-time communication
+
+### Databases & Data Management
+- **SQL:** PostgreSQL, MySQL, SQLite
+- **NoSQL:** MongoDB
+- **ORM:** Prisma
+
+### Data Science & AI
+- **Libraries:** NumPy, Pandas, Matplotlib, Plotly
+- **Focus Areas:** Machine Learning, Data Analysis, Data Visualization, Big Data Processing
+
+### DevOps & Infrastructure
+- **Containerization:** Docker
+- **Cloud:** AWS
+- **Web Servers:** Nginx, Apache, Gunicorn
+- **Tools:** Postman, Jira, NPM
+
+---
+
+## What I Build
+
+**Mobile Applications**  
+Cross-platform mobile apps with React Native, delivering seamless user experiences across iOS and Android.
+
+**Web Applications**  
+Full-stack web solutions using modern frameworks, from responsive frontends to robust backend systems.
+
+**AI-Powered Solutions**  
+Integrating machine learning models and data analytics into production applications for intelligent decision-making.
+
+**Data Processing Systems**  
+Building scalable data pipelines and visualization dashboards for extracting actionable insights from complex datasets.
+
+**Real-Time Applications**  
+Implementing WebSocket-based communication for live features and collaborative tools.
+
+---
+
+## Current Focus
+
+- Advancing skills in machine learning algorithms and deep learning architectures
+- Exploring big data frameworks for processing large-scale datasets
+- Building full-stack applications that leverage AI capabilities
+- Contributing to open-source projects in AI and web development
+
+---
+
+## Approach to Development
+
+I believe in writing clean, maintainable code with a focus on:
+- **Scalability:** Designing systems that grow with user demands
+- **Performance:** Optimizing for speed and efficiency
+- **User Experience:** Creating intuitive, accessible interfaces
+- **Best Practices:** Following industry standards and modern development patterns
+- **Continuous Learning:** Staying updated with emerging technologies
+
+---
+
+## Let's Connect
+
+I'm always interested in collaborating on innovative projects, especially those involving AI, big data, or full-stack development. Feel free to reach out if you'd like to discuss technology, share ideas, or explore potential collaborations.
+
+**Email:** daabdabo@gmail.com  
+**LinkedIn:** [linkedin.com/in/abdoulaye-dabo-39625023a](https://linkedin.com/in/abdoulaye-dabo-39625023a)
+
+---
+
+*"Building intelligent solutions, one line of code at a time"*
